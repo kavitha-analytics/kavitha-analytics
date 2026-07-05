@@ -1,5 +1,6 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=kavitha4404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<h1 align="center">Hey there 👋, I'm Kavitha Bishal</h1>
+<h1 align="center">Hey there 👋, I'm Kavitha Bishal</h1>                                                   
 
 <h3 align="center">
 Data Analyst in Progress 📊 | Power BI • SQL • Python • Excel
