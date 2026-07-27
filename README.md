@@ -91,12 +91,6 @@ https://github.com/kavitha-analytics
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavitha-analytics" /> </p>
-
----
-
 ## 🌟 Career Objective
 
 To build a successful career in Data Analytics by leveraging Power BI, SQL, Python, and Excel to solve business problems and create data-driven solutions.
